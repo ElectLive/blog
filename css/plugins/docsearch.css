@@ -241,6 +241,40 @@ html[theme=dark] .DocSearch-Form {
   box-shadow: 0 8px 24px rgba(30, 111, 217, 0.22);
 }
 
+/* 底部图标链接 */
+.sea-footer-icons {
+  display: flex;
+  justify-content: center;
+  gap: 0.9rem;
+  margin: 0.35rem 0 0.15rem;
+}
+
+.sea-footer-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  color: var(--sea-color-text-2);
+  border: 1px solid var(--sea-color-border-1);
+  transition: all 0.25s ease;
+}
+
+.sea-footer-icon .sea-svg-icon,
+.sea-footer-icon svg {
+  width: 1.05rem !important;
+  height: 1.05rem !important;
+  fill: currentColor;
+}
+
+.sea-footer-icon:hover {
+  color: var(--sea-color-white);
+  background: var(--sea-color-primary);
+  border-color: var(--sea-color-primary);
+  transform: translateY(-2px);
+}
+
 /* 关于页档案表第一列不要折行 */
 .sea-doc table th:first-child {
   white-space: nowrap;
