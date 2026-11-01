@@ -1,0 +1,264 @@
+#sea-search-input {
+  display: none;
+}
+
+.DocSearch {
+  --docsearch-primary-color: var(--sea-color-primary);
+  --docsearch-highlight-color: var(--sea-color-primary);
+  --docsearch-searchbox-shadow: none;
+  --docsearch-logo-color: var(--sea-color-primary);
+
+  --docsearch-text-color: var(--sea-color-text-1);
+  --docsearch-muted-color: var(--sea-color-text-2);
+  --docsearch-searchbox-focus-background: transparent;
+  --docsearch-key-gradient: transparent;
+  --docsearch-key-shadow: none;
+  --docsearch-modal-background: var(--sea-color-bg-soft);
+  --docsearch-footer-background: var(--sea-color-bg);
+}
+
+.DocSearch .cls-1,
+.DocSearch .cls-2 {
+  fill: var(--sea-color-primary);
+}
+
+.DocSearch-Button {
+  margin: 0;
+}
+
+.DocSearch-Form {
+  border: 1px solid var(--sea-color-primary);
+  background-color: var(--sea-color-white);
+}
+
+html[theme=dark] .DocSearch {
+  --docsearch-modal-shadow: none;
+  --docsearch-footer-shadow: none;
+  --docsearch-logo-color: var(--sea-color-text-2);
+  --docsearch-hit-background: var(--sea-color-mute);
+  --docsearch-hit-color: var(--sea-color-text-2);
+  --docsearch-hit-shadow: none;
+  --docsearch-searchbox-background: transparent;
+}
+
+html[theme=dark] .DocSearch-Footer {
+  border-top: 1px solid var(--sea-color-divider);
+}
+
+html[theme=dark] .DocSearch-Form {
+  background-color: var(--sea-color-mute);
+}
+
+/* 调整PC端搜索框样式 */
+@media (min-width: 768px) {
+  .DocSearch-Button {
+    justify-content: flex-start;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 0 10px 0 12px;
+    width: 100%;
+    height: 40px;
+    background-color: var(--sea-color-bg-alt);
+  }
+
+  .DocSearch-Button:hover {
+    border-color: var(--sea-color-primary);
+    background: var(--sea-color-bg-alt);
+  }
+
+  /* 设置 搜索图标 样式 */
+  .DocSearch-Button .DocSearch-Search-Icon {
+    top: 1px;
+    margin-right: 8px;
+    width: 14px;
+    height: 14px;
+    color: var(--sea-color-text-2);
+  }
+
+  .DocSearch-Button:hover .DocSearch-Search-Icon {
+    color: var(--sea-color-text-1);
+  }
+
+  /* 设置 Placeholder 样式 */
+  .DocSearch-Button .DocSearch-Button-Placeholder {
+    display: inline-block;
+    padding: 0 16px 0 0;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--sea-color-text-2);
+    transition: color 0.5s;
+  }
+
+  .DocSearch-Button:hover .DocSearch-Button-Placeholder {
+    color: var(--sea-color-text-1);
+  }
+
+  /* <Ctrl K> 快捷键按钮样式 */
+  .DocSearch-Button .DocSearch-Button-Keys {
+    display: flex;
+    align-items: center;
+  }
+
+  .DocSearch-Button .DocSearch-Button-Key {
+    display: block;
+    margin: 2px 0 0 0;
+    border: 1px solid var(--sea-color-divider);
+    border-right: none;
+    border-radius: 4px 0 0 4px;
+    padding-left: 6px;
+    min-width: 0;
+    width: auto;
+    height: 22px;
+    line-height: 22px;
+    font-size: 12px;
+    font-weight: 500;
+    transition: color 0.5s, border-color 0.5s;
+  }
+
+  .DocSearch-Button .DocSearch-Button-Key+.DocSearch-Button-Key {
+    border-right: 1px solid var(--sea-color-divider);
+    border-left: none;
+    border-radius: 0 4px 4px 0;
+    padding-left: 2px;
+    padding-right: 6px;
+  }
+
+  .DocSearch-Button .DocSearch-Button-Key:first-child {
+    font-size: 1px;
+    letter-spacing: -12px;
+    color: transparent;
+  }
+
+  .DocSearch-Button .DocSearch-Button-Key:first-child>* {
+    display: none;
+  }
+
+  .DocSearch-Button .DocSearch-Button-Key:first-child:after {
+    content: "Ctrl";
+    font-size: 12px;
+    letter-spacing: normal;
+    color: var(--docsearch-muted-color);
+  }
+}
+
+@media (max-width: 768px) {
+
+  /* 修复移动端搜索表单定位问题 */
+  .DocSearch-Container {
+    position: fixed;
+  }
+}
+/* 依莲莱的窝 · 额外样式（由 _config.sea.yml 的 seaExtraStyle 打开）
+   只做皮肤层面的东西，不改主题结构。纯 CSS，跟着主题的 css 一起打包。 */
+
+:root {
+  --sea-color-primary-soft: rgba(30, 111, 217, 0.12);
+}
+
+/* 首页个人信息：深海蓝光晕 + 头像描边 */
+#sea-hero-info {
+  padding: 1.5rem 1.75rem;
+  border-radius: 1rem;
+  background:
+    radial-gradient(120% 140% at 0% 0%, var(--sea-color-primary-soft) 0%, transparent 55%),
+    var(--sea-color-main-bg);
+  border: 1px solid var(--sea-color-border-1);
+  box-shadow: var(--sea-shadow-card);
+}
+
+.sea-hero-info__right {
+  box-shadow: 0 0 0 4px var(--sea-color-primary-soft), 0 8px 24px rgba(30, 111, 217, 0.25);
+}
+
+.sea-hero-name::after {
+  content: '🐳';
+  font-size: 1.2rem;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+}
+
+/* 成就页的作品卡（{% works %}） */
+.sea-works-wrapper {
+  margin: 1.25rem 0;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+
+.sea-works-card {
+  overflow: hidden;
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.sea-works-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px var(--sea-post-shadow);
+  border-color: var(--sea-color-primary);
+}
+
+/* 数字统计卡 */
+.iel-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0;
+}
+
+.iel-stat {
+  padding: 1rem 1.1rem;
+  border-radius: 12px;
+  border: 1px solid var(--sea-color-border-1);
+  background: linear-gradient(135deg, var(--sea-color-primary-soft), transparent 70%);
+}
+
+.iel-stat__num {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--sea-color-primary);
+}
+
+.iel-stat__label {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.8125rem;
+  color: var(--sea-color-text-2);
+}
+
+/* 关于页顶部的头像 */
+.sea-doc .sea-doc-avatar {
+  display: flex;
+  justify-content: center;
+  margin: 0.5rem 0 1.25rem;
+}
+
+.sea-doc .sea-doc-avatar img {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--sea-color-primary-soft);
+  box-shadow: 0 8px 24px rgba(30, 111, 217, 0.22);
+}
+
+/* 关于页档案表第一列不要折行 */
+.sea-doc table th:first-child {
+  white-space: nowrap;
+}
+
+/* 暗色模式下标题带一点海蓝 */
+html[theme=dark] .sea-hero-name,
+html[theme=dark] .sea-index-title {
+  color: #9cc7ff;
+}
+
+/* 手机端 */
+@media screen and (max-width: 768px) {
+  #sea-hero-info {
+    padding: 1.1rem 1.2rem;
+  }
+
+  .iel-stat-grid {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  }
+}
