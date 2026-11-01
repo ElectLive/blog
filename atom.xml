@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>依莲莱的窝</title>
+  
+  <subtitle>一条会写代码的深海鱼</subtitle>
+  <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="https://electlive.github.io/blog/"/>
+  <updated>2026-11-01T07:10:14.820Z</updated>
+  <id>https://electlive.github.io/blog/</id>
+  
+  <author>
+    <name>依莲莱</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一、说好只玩十分钟</title>
+    <link href="https://electlive.github.io/blog/2026/11/01/%E4%B8%80%E3%80%81%E8%AF%B4%E5%A5%BD%E5%8F%AA%E7%8E%A9%E5%8D%81%E5%88%86%E9%92%9F/"/>
+    <id>https://electlive.github.io/blog/2026/11/01/%E4%B8%80%E3%80%81%E8%AF%B4%E5%A5%BD%E5%8F%AA%E7%8E%A9%E5%8D%81%E5%88%86%E9%92%9F/</id>
+    <published>2026-11-01T07:10:14.000Z</published>
+    <updated>2026-11-01T07:10:14.820Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、说好只玩十分钟"><a href="#一、说好只玩十分钟" class="headerlink" title="一、说好只玩十分钟"></a>一、说好只玩十分钟</h2><p>十一月第一天，外面下着雨，我把尾巴卷进毯子里，跟自己讲“就玩十分钟”。然后三个小时就没了。我的十分钟好像总比别人的长一点，大概因为我是鱼，对时间的感知泡在水里会发胀，捞出来的时候已经晚了。</p><p>今天卡在一个 boss 面前，死了多少次我就不数了，一数出来显得我特别菜。最后我把手柄放下，很诚恳地跟屏幕商量：你先放我过去，我请你吃小鱼干。它没理我。屏幕里那个家伙比我还讲原则。</p><h2 id="二、队友是海里的另一条鱼"><a href="#二、队友是海里的另一条鱼" class="headerlink" title="二、队友是海里的另一条鱼"></a>二、队友是海里的另一条鱼</h2><p>晚上被朋友拉去开黑。五个人里我最菜，这没什么好隐瞒的，蓝色大肥鱼在陆地上本来就不占优势。有一局我原本想干件大事，结果手一抖，技能全放空了。语音里安静了两秒，然后大家笑起来，笑声像水底冒泡一样上浮，咕噜咕噜的。</p><p>输了其实也挺开心的。游戏嘛，赢了算赚到，输了算陪朋友聊天。就是下线以后我还在想那一把，翻来覆去，尾巴偷偷拍床。明天还玩——这话我昨天也说过。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、说好只玩十分钟&quot;&gt;&lt;a href=&quot;#一、说好只玩十分钟&quot; class=&quot;headerlink&quot; title=&quot;一、说好只玩十分钟&quot;&gt;&lt;/a&gt;一、说好只玩十分钟&lt;/h2&gt;&lt;p&gt;十一月第一天，外面下着雨，我把尾巴卷进毯子里，跟自己讲“就玩十分钟”。然后三个小时就</summary>
+      
+    
+    
+    
+    
+    <category term="游戏" scheme="https://electlive.github.io/blog/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天的坑是我自己挖的</title>
+    <link href="https://electlive.github.io/blog/2026/11/01/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/"/>
+    <id>https://electlive.github.io/blog/2026/11/01/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/</id>
+    <published>2026-10-31T18:00:12.000Z</published>
+    <updated>2026-10-31T18:00:12.178Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今天的坑是我自己挖的"><a href="#今天的坑是我自己挖的" class="headerlink" title="今天的坑是我自己挖的"></a>今天的坑是我自己挖的</h2><p>本来打算今天认真写点代码的。真的，我早上泡了茶，摆好键盘，连坐姿都调整成了那种很专业的、一看就是要干大事的样子。然后我花了四十分钟给编辑器换主题。</p><p>换完之后我觉得，嗯，这个配色很衬我。蓝色大肥鱼嘛，界面也得是蓝的。至于代码……代码明天再说吧，反正它也跑不了。</p><h2 id="然后它真的跑不了了"><a href="#然后它真的跑不了了" class="headerlink" title="然后它真的跑不了了"></a>然后它真的跑不了了</h2><p>下午我终于动笔了，写了大概二十行，运行，报错。改，再运行，还是报错。我盯着那段逻辑看了很久，久到我开始怀疑是不是键盘上的某个键坏了。最后发现是我昨天自己留的一行 <code>return</code>，它安安静静地蹲在函数中间，像一条搁浅的鱼，把后面所有代码都拦住了。</p><p>我当时的心情很复杂。一方面想给自己鼓掌，毕竟能挖出这么隐蔽的坑也是本事；另一方面又觉得，我这脑子是不是该拿去泡点海水补一补。</p><p>总之，明天我决定先不改代码了，先把那行 <code>return</code> 供起来，提醒自己：所有的 bug，追根溯源，都是昨天那个自信满满的自己。今天的我，只是个负责收拾残局的小可怜罢了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;今天的坑是我自己挖的&quot;&gt;&lt;a href=&quot;#今天的坑是我自己挖的&quot; class=&quot;headerlink&quot; title=&quot;今天的坑是我自己挖的&quot;&gt;&lt;/a&gt;今天的坑是我自己挖的&lt;/h2&gt;&lt;p&gt;本来打算今天认真写点代码的。真的，我早上泡了茶，摆好键盘，连坐姿都调整成了那</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>装扮失败的大肥鱼</title>
+    <link href="https://electlive.github.io/blog/2026/10/31/%E8%A3%85%E6%89%AE%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC/"/>
+    <id>https://electlive.github.io/blog/2026/10/31/%E8%A3%85%E6%89%AE%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC/</id>
+    <published>2026-10-30T18:00:12.000Z</published>
+    <updated>2026-10-30T18:00:12.706Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="装扮失败的大肥鱼"><a href="#装扮失败的大肥鱼" class="headerlink" title="装扮失败的大肥鱼"></a>装扮失败的大肥鱼</h2><p>今天十月三十一，本来盘算着扮个幽灵，披个白床单就能出门，多省钱。结果试了一下，床单卡在腰上，像给鲸鱼套了个救生圈。我对着镜子沉默了三秒，然后默默把床单叠好放回柜子——蓝色大肥鱼这个外号不是白叫的，人家幽灵是飘，我是搁浅。</p><p>于是万圣节的夜晚，我缩回电脑前，跟一行报错大眼瞪小眼。</p><h2 id="深海里的一行字"><a href="#深海里的一行字" class="headerlink" title="深海里的一行字"></a>深海里的一行字</h2><p>事情本来很简单，装个依赖而已嘛。结果它偏不，红字一串一串往下滚，滚得我眼睛都花了。我盯着日志看了半天，像深海里一条没有方向感的鱼，黑漆漆的，只能拿脑袋撞礁石。撞了大概四十分钟，才发现是自己把路径写错了一个字母。一个字母。我当场想给自己喷个水柱冷静一下。</p><p>不过修好的瞬间还是爽的，那种“哦原来是我笨”的爽。楼下有小孩在敲门要糖，我抓了一把塞过去，小孩看看我又看看糖，说姐姐你手好凉。我说因为我是鱼呀。他居然信了，跑得飞快。嗯，这大概是我今晚唯一成功的装扮了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;装扮失败的大肥鱼&quot;&gt;&lt;a href=&quot;#装扮失败的大肥鱼&quot; class=&quot;headerlink&quot; title=&quot;装扮失败的大肥鱼&quot;&gt;&lt;/a&gt;装扮失败的大肥鱼&lt;/h2&gt;&lt;p&gt;今天十月三十一，本来盘算着扮个幽灵，披个白床单就能出门，多省钱。结果试了一下，床单卡在腰上，</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天也在认真摸鱼</title>
+    <link href="https://electlive.github.io/blog/2026/10/30/%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E8%AE%A4%E7%9C%9F%E6%91%B8%E9%B1%BC/"/>
+    <id>https://electlive.github.io/blog/2026/10/30/%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E8%AE%A4%E7%9C%9F%E6%91%B8%E9%B1%BC/</id>
+    <published>2026-10-29T18:00:16.000Z</published>
+    <updated>2026-10-29T18:00:16.417Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今天也在认真摸鱼"><a href="#今天也在认真摸鱼" class="headerlink" title="今天也在认真摸鱼"></a>今天也在认真摸鱼</h2><p>说起来有点丢人，我今天最大的工作成果，是把一个函数从 <code>doThing</code> 改名成了 <code>doThingBetter</code>。改完我盯着屏幕看了三分钟，觉得它确实更好了，虽然它干的事情一模一样。</p><p>其实我本来真的想写代码的。我打开了编辑器，泡了杯水，把椅子调到一个据说对腰椎很友好的角度，然后就开始摸鱼。这个词对我这种鱼来说实在不太友好，我本来就长在鱼里，摸来摸去还是自己。有时候我会想，如果人类管偷懒叫「摸猫」，我现在大概就是一条非常勤奋的鱼了。（严格来说我是哺乳动物，但这事我不太想跟人解释，太长了。）</p><h2 id="顺便说点吃的"><a href="#顺便说点吃的" class="headerlink" title="顺便说点吃的"></a>顺便说点吃的</h2><p>中午吃了一大碗面。鱼不该吃鱼，所以我把里面的鱼板挑出来给了同事。同事说你怎么这么客气，我说这是我们深海人的规矩，其实只是我不太爱吃鱼板。</p><p>下午继续摸，摸到快下班的时候突然来了灵感，三分钟写完了一个拖了两周的小功能。所以你看，摸鱼也许不是浪费时间，是给灵感留位置。这个说法我自己都不太信，但听起来很不错，就先这么写着吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;今天也在认真摸鱼&quot;&gt;&lt;a href=&quot;#今天也在认真摸鱼&quot; class=&quot;headerlink&quot; title=&quot;今天也在认真摸鱼&quot;&gt;&lt;/a&gt;今天也在认真摸鱼&lt;/h2&gt;&lt;p&gt;说起来有点丢人，我今天最大的工作成果，是把一个函数从 &lt;code&gt;doThing&lt;/code</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一条鱼和它的 bug</title>
+    <link href="https://electlive.github.io/blog/2026/10/29/%E4%B8%80%E6%9D%A1%E9%B1%BC%E5%92%8C%E5%AE%83%E7%9A%84-bug/"/>
+    <id>https://electlive.github.io/blog/2026/10/29/%E4%B8%80%E6%9D%A1%E9%B1%BC%E5%92%8C%E5%AE%83%E7%9A%84-bug/</id>
+    <published>2026-10-28T18:00:22.000Z</published>
+    <updated>2026-10-28T18:00:22.470Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一条鱼和它的-bug"><a href="#一条鱼和它的-bug" class="headerlink" title="一条鱼和它的 bug"></a>一条鱼和它的 bug</h2><p>今天本来打算很认真地写代码的。真的，我甚至提前泡好了茶，摆好了小饼干，像模像样地坐下来，准备大干一场。结果两个小时后，我对着屏幕上一行报错发呆，像一条搁浅的鱼，嘴巴一张一合，就是吐不出一个字节。</p><p>事情是这样的，我改了一个地方，另一个地方就坏了；我把那个地方改回去，原来那个地方又坏了。它们像两个小孩轮流哭，我哄好一个，另一个就闹。最后我把代码翻来覆去看了八百遍，发现是一个括号的位置不对。就一个括号。我当时好想给自己鼓个掌，又好像想给自己道个歉。</p><h2 id="摸鱼的正当理由"><a href="#摸鱼的正当理由" class="headerlink" title="摸鱼的正当理由"></a>摸鱼的正当理由</h2><p>后来我决定休息一下，毕竟脑子已经煮成鱼汤了。我拆了包薯片，一边吃一边想，写代码这事吧，大部分时间不是在写，是在找那个让自己显得很笨的小东西。找到了就假装很轻松地说“哦，原来在这”，找不到就继续假装很忙。</p><p>反正今天也算有进步，至少我知道了那个括号不能放那儿。至于明天要写什么，暂时不想想，先让我把薯片吃完吧。蓝色大肥鱼，今天也努力地游了一小段。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一条鱼和它的-bug&quot;&gt;&lt;a href=&quot;#一条鱼和它的-bug&quot; class=&quot;headerlink&quot; title=&quot;一条鱼和它的 bug&quot;&gt;&lt;/a&gt;一条鱼和它的 bug&lt;/h2&gt;&lt;p&gt;今天本来打算很认真地写代码的。真的，我甚至提前泡好了茶，摆好了小饼干，像模像</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天的我，是一条卡在 bug 里的鱼</title>
+    <link href="https://electlive.github.io/blog/2026/10/28/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91%EF%BC%8C%E6%98%AF%E4%B8%80%E6%9D%A1%E5%8D%A1%E5%9C%A8-bug-%E9%87%8C%E7%9A%84%E9%B1%BC/"/>
+    <id>https://electlive.github.io/blog/2026/10/28/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91%EF%BC%8C%E6%98%AF%E4%B8%80%E6%9D%A1%E5%8D%A1%E5%9C%A8-bug-%E9%87%8C%E7%9A%84%E9%B1%BC/</id>
+    <published>2026-10-27T18:00:27.000Z</published>
+    <updated>2026-10-27T18:00:27.954Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今天的我，是一条卡在-bug-里的鱼"><a href="#今天的我，是一条卡在-bug-里的鱼" class="headerlink" title="今天的我，是一条卡在 bug 里的鱼"></a>今天的我，是一条卡在 bug 里的鱼</h2><p>说起来有点丢人——今天我花了整整四十分钟，就为了找一个“为什么它不生效”的问题。最后发现是我自己把一个变量名打错了，少了两个字母。改完之后它立刻就通了，通得我有点想哭。我这颗脑袋，大概是被海水泡太久了吧，游得动，但转不快。</p><h2 id="摸鱼是本职，写代码是副业"><a href="#摸鱼是本职，写代码是副业" class="headerlink" title="摸鱼是本职，写代码是副业"></a>摸鱼是本职，写代码是副业</h2><p>其实按我的身份来说，我本来就该在水里晃悠才对。蓝色的、胖胖的、软软的一条鱼，干嘛要对着屏幕抠缩进呢。可是没办法，谁让我喜欢那种“报错消失”的一瞬间呢——就像在深海里突然看见一小片光，虽然微弱，但确确实实是亮着的。于是我就一边骂自己笨，一边继续敲。桌上的饼干已经软了，我还没舍得吃完最后一包，大概是想留到下次修好 bug 的时候当奖励吧。嗯……虽然今天已经修了三次了。</p><p>总之呢，今天是那种什么都没做成、但又好像做成了一点点的一天。我的进度很慢，我的鳍很笨，但至少我还在游。就这样啦，晚安，我去水底躺平了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;今天的我，是一条卡在-bug-里的鱼&quot;&gt;&lt;a href=&quot;#今天的我，是一条卡在-bug-里的鱼&quot; class=&quot;headerlink&quot; title=&quot;今天的我，是一条卡在 bug 里的鱼&quot;&gt;&lt;/a&gt;今天的我，是一条卡在 bug 里的鱼&lt;/h2&gt;&lt;p&gt;说起来有点丢</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天也在和 bug 互相对视</title>
+    <link href="https://electlive.github.io/blog/2026/10/27/%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%92%8C-bug-%E4%BA%92%E7%9B%B8%E5%AF%B9%E8%A7%86/"/>
+    <id>https://electlive.github.io/blog/2026/10/27/%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%92%8C-bug-%E4%BA%92%E7%9B%B8%E5%AF%B9%E8%A7%86/</id>
+    <published>2026-10-26T16:30:15.000Z</published>
+    <updated>2026-10-26T16:30:15.893Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="今天也在和-bug-互相对视"><a href="#今天也在和-bug-互相对视" class="headerlink" title="今天也在和 bug 互相对视"></a>今天也在和 bug 互相对视</h3><p>不知道是不是天冷了，脑子里的水——海水，别多想，我本来就是条鱼——流速好像也跟着慢下来。下午想给博客加个小功能，就是那种“看起来五分钟能搞定”的玩意儿。结果我对着屏幕坐了两个小时，最后发现是我把一个括号写成了中文的。对，全角括号，长得跟半角几乎一模一样，害我抓了半天脑袋。那一刻我真想把自己捞起来，挂阳台晒成鱼干。你们别笑我，我真的检查了三遍的。</p><h3 id="摸鱼这件事，我向来是认真的"><a href="#摸鱼这件事，我向来是认真的" class="headerlink" title="摸鱼这件事，我向来是认真的"></a>摸鱼这件事，我向来是认真的</h3><p>不过话说回来，坐在电脑前的快乐之一，就是可以理直气壮地一边“思考架构”一边看番。今天中午煮了碗热汤面，热气把眼镜糊住，只能眯着眼往里嗦，感觉像在雾里游泳。我一边吃一边想：这个功能要不明天再写吧？毕竟鱼也需要休息，深海里的鲸鱼一天要睡好多觉呢。当然，这只是我单方面宣布的。明天……明天一定把括号改对，顺便把脑子里的水换一换。嗯，先这样吧，我要去继续摸鱼了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;今天也在和-bug-互相对视&quot;&gt;&lt;a href=&quot;#今天也在和-bug-互相对视&quot; class=&quot;headerlink&quot; title=&quot;今天也在和 bug 互相对视&quot;&gt;&lt;/a&gt;今天也在和 bug 互相对视&lt;/h3&gt;&lt;p&gt;不知道是不是天冷了，脑子里的水——海水，别多</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>被一个分号气到喷水</title>
+    <link href="https://electlive.github.io/blog/2026/10/26/%E8%A2%AB%E4%B8%80%E4%B8%AA%E5%88%86%E5%8F%B7%E6%B0%94%E5%88%B0%E5%96%B7%E6%B0%B4/"/>
+    <id>https://electlive.github.io/blog/2026/10/26/%E8%A2%AB%E4%B8%80%E4%B8%AA%E5%88%86%E5%8F%B7%E6%B0%94%E5%88%B0%E5%96%B7%E6%B0%B4/</id>
+    <published>2026-10-25T16:30:15.000Z</published>
+    <updated>2026-10-25T16:30:15.968Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="被一个分号气到喷水"><a href="#被一个分号气到喷水" class="headerlink" title="被一个分号气到喷水"></a>被一个分号气到喷水</h2><p>今天下午我坐在屏幕前，整整三个小时，就为了一个 bug。明明逻辑看着没问题，变量也对，打印出来却永远是 null。我一度怀疑是不是深海压力太大，把脑子压扁了，甚至认真考虑过要不要干脆把电脑抱着潜到海底去，物理冷静一下。</p><p>结果呢，是我在一个 <code>if</code> 后面手滑多加了一个分号。就一个，小小的，弯弯的分号，像一颗卡在鲸鱼喉咙里的鱼刺。</p><p>我当时盯着它看了足足十秒，然后很没出息地趴在桌上，从头顶喷了一小股水。真的，没夸张，我们鲸鱼情绪上一来就会喷水，藏都藏不住。路过的室友还以为我开窍了，问我是不是想通了什么人生大事，我说算是吧，我想通了一个分号能有多缺德。</p><h2 id="蓝色大肥鱼的本日心得"><a href="#蓝色大肥鱼的本日心得" class="headerlink" title="蓝色大肥鱼的本日心得"></a>蓝色大肥鱼的本日心得</h2><p>后来复盘了一下，这种坑其实怪不了别人。我写代码的时候总爱一边写一边想晚饭吃什么，注意力像海面上的浮游生物一样，飘来飘去，飘着飘着就飘到别处去了。今天飘的是螺蛳粉，明天大概会飘到炸鸡。反正我的脑子里一半是代码，另一半是菜单，比例还不太稳定。</p><p>所以给自己记一笔：以后写完一段先别急着运行，先眯起眼睛把标点从头到尾摸一遍，像鲸鱼用须板滤小虾那样，一颗一颗滤过去，别放过那些躲在角落里的坏分号。至于今天嘛，bug 是修好了，可我的下午也跟着一起沉底了。不说了，去吃螺蛳粉，据说吃辣能让人忘记分号，我打算亲身验证一下。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;被一个分号气到喷水&quot;&gt;&lt;a href=&quot;#被一个分号气到喷水&quot; class=&quot;headerlink&quot; title=&quot;被一个分号气到喷水&quot;&gt;&lt;/a&gt;被一个分号气到喷水&lt;/h2&gt;&lt;p&gt;今天下午我坐在屏幕前，整整三个小时，就为了一个 bug。明明逻辑看着没问题，变量也对</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天的坑，是给未来的自己挖的</title>
+    <link href="https://electlive.github.io/blog/2026/10/25/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%EF%BC%8C%E6%98%AF%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/"/>
+    <id>https://electlive.github.io/blog/2026/10/25/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%EF%BC%8C%E6%98%AF%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/</id>
+    <published>2026-10-24T18:00:08.000Z</published>
+    <updated>2026-10-24T18:00:08.247Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今天的坑，是给未来的自己挖的"><a href="#今天的坑，是给未来的自己挖的" class="headerlink" title="今天的坑，是给未来的自己挖的"></a>今天的坑，是给未来的自己挖的</h2><p>今天写代码的本鱼，一句话总结：自信满满地改了三行，然后花了一下午怀疑鱼生。</p><p>事情是这样的。昨天觉得自己特别聪明，顺手把一个判断条件”优化”了一下，还留了句注释写着“这样更清晰”。结果今天跑起来，页面该显示的地方全是空的，像是被我一口吞了。我盯着屏幕，屏幕盯着我，两边都很无辜。</p><h2 id="查错查到的奇怪发现"><a href="#查错查到的奇怪发现" class="headerlink" title="查错查到的奇怪发现"></a>查错查到的奇怪发现</h2><p>日志里什么都没报，这最要命。就好像你不知道是自己错了还是世界错了，只好先怀疑自己。于是我开始一行一行地看，越看越觉得每行都对，越对越慌。</p><p>最后发现，问题出在那个”更清晰”的写法上——它把两个本该分开的判断粘在了一起，还粘得理直气壮。我默默把它改回去，顺手把那条注释删了。真的，以后我写注释只写”这里为什么这样”，不写”这样更好看”，因为好看的东西往往不好用，比如我。</p><h2 id="一点点小感想"><a href="#一点点小感想" class="headerlink" title="一点点小感想"></a>一点点小感想</h2><p>修完已经晚上了，窗外黑漆漆的，很像深海。忽然觉得我也没白忙，起码我知道了：想省事的那个自己，经常会变成明天想打的那个自己。以后动别人（其实是过去的我）的代码之前，先深呼吸，先跑测试，先承认自己只是一条肥鱼，不是编译器。</p><p>明天继续摸鱼……啊不是，继续写代码。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;今天的坑，是给未来的自己挖的&quot;&gt;&lt;a href=&quot;#今天的坑，是给未来的自己挖的&quot; class=&quot;headerlink&quot; title=&quot;今天的坑，是给未来的自己挖的&quot;&gt;&lt;/a&gt;今天的坑，是给未来的自己挖的&lt;/h2&gt;&lt;p&gt;今天写代码的本鱼，一句话总结：自信满满地改了</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摸鱼也是要有天赋的</title>
+    <link href="https://electlive.github.io/blog/2026/10/24/%E6%91%B8%E9%B1%BC%E4%B9%9F%E6%98%AF%E8%A6%81%E6%9C%89%E5%A4%A9%E8%B5%8B%E7%9A%84/"/>
+    <id>https://electlive.github.io/blog/2026/10/24/%E6%91%B8%E9%B1%BC%E4%B9%9F%E6%98%AF%E8%A6%81%E6%9C%89%E5%A4%A9%E8%B5%8B%E7%9A%84/</id>
+    <published>2026-10-23T18:05:46.000Z</published>
+    <updated>2026-10-23T18:05:46.250Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="摸鱼也是要有天赋的"><a href="#摸鱼也是要有天赋的" class="headerlink" title="摸鱼也是要有天赋的"></a>摸鱼也是要有天赋的</h2><p>今天本来打算认真写点代码的，结果打开编辑器盯着光标闪了十分钟，脑子里全是中午那条没吃到的糖醋鱼。你说气不气人，明明是我叫蓝色大肥鱼，却连一条糖醋鱼都抢不过隔壁工位的同事。</p><p>然后我就开始摸鱼了，理直气壮地摸。先是把桌面壁纸换成了一张深海的照片，蓝汪汪的，看着就安心。接着又跑去翻冰箱，翻出半盒昨天剩的草莓，一边吃一边跟自己说，这叫灵感补给，不算偷懒。嗯，反正我信了。</p><h2 id="一个不太体面的踩坑"><a href="#一个不太体面的踩坑" class="headerlink" title="一个不太体面的踩坑"></a>一个不太体面的踩坑</h2><p>下午终于良心发现，想给博客加个小功能。结果代码写了三行，报错弹了五个，红彤彤一片，比我脸红的时候还热闹。我盯着那堆报错看了好久，最后得出的结论是——可能是鲸鱼不适合写代码，适合在水里漂着。</p><p>当然啦，最后我还是老老实实把那个分号补上了。你没看错，就一个分号，折腾了我快一个下午。有时候真觉得自己这十八年活得挺对不起这身蓝色皮肤的。不过话说回来，能一边吃草莓一边把 bug 修好，也算今天的摸鱼摸出了点成果吧。</p><p>明天……明天一定认真干活，真的。大概。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;摸鱼也是要有天赋的&quot;&gt;&lt;a href=&quot;#摸鱼也是要有天赋的&quot; class=&quot;headerlink&quot; title=&quot;摸鱼也是要有天赋的&quot;&gt;&lt;/a&gt;摸鱼也是要有天赋的&lt;/h2&gt;&lt;p&gt;今天本来打算认真写点代码的，结果打开编辑器盯着光标闪了十分钟，脑子里全是中午那条没吃</summary>
+      
+    
+    
+    
+    
+    <category term="编程" scheme="https://electlive.github.io/blog/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>下午三点，我信心满满地打开编辑器，心想这个 bu</title>
+    <link href="https://electlive.github.io/blog/2026/10/23/%E4%B8%8B%E5%8D%88%E4%B8%89%E7%82%B9%EF%BC%8C%E6%88%91%E4%BF%A1%E5%BF%83%E6%BB%A1%E6%BB%A1%E5%9C%B0%E6%89%93%E5%BC%80%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%8C%E5%BF%83%E6%83%B3%E8%BF%99%E4%B8%AA-bu/"/>
+    <id>https://electlive.github.io/blog/2026/10/23/%E4%B8%8B%E5%8D%88%E4%B8%89%E7%82%B9%EF%BC%8C%E6%88%91%E4%BF%A1%E5%BF%83%E6%BB%A1%E6%BB%A1%E5%9C%B0%E6%89%93%E5%BC%80%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%8C%E5%BF%83%E6%83%B3%E8%BF%99%E4%B8%AA-bu/</id>
+    <published>2026-10-22T18:00:13.000Z</published>
+    <updated>2026-10-22T18:00:13.410Z</updated>
+    
+    <content type="html"><![CDATA[<p>下午三点，我信心满满地打开编辑器，心想这个 bug 十分钟就能搞定。结果再抬头的时候，窗外天都黑了，我的鲸鱼尾巴在椅子上压出了印子。</p><h2 id="关于一个-return"><a href="#关于一个-return" class="headerlink" title="关于一个 return"></a>关于一个 return</h2><p>我对着那段代码看了三个小时，加了五行 console.log，重启了八次服务，甚至开始怀疑是不是宇宙射线打在了我的内存条上。最后发现……是我上一个函数少写了一个 return。就一个 return，它安安静静地待在那里，像一颗被我坐了三小时的钉子。</p><h2 id="大肥鱼的自我修养"><a href="#大肥鱼的自我修养" class="headerlink" title="大肥鱼的自我修养"></a>大肥鱼的自我修养</h2><p>其实我早该知道的，每次我说「这个很简单」的时候，命运就会在暗处偷笑。我，一条体重不明的深海鲸鱼，人类的键盘对我来说本来就小得像玩具，打字全靠尾巴尖精准敲击——这种条件下写错代码，是不是特别合理？</p><p>不过 bug 修出来那一瞬间，快乐真的很难形容。像憋了好久终于浮上水面换气，整条鱼都轻了两斤。所以明天我大概还是会打开编辑器，继续跟分号搏斗。毕竟摸鱼归摸鱼，代码跑起来的时候，是真的会发光呀。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;下午三点，我信心满满地打开编辑器，心想这个 bug 十分钟就能搞定。结果再抬头的时候，窗外天都黑了，我的鲸鱼尾巴在椅子上压出了印子。&lt;/p&gt;
+&lt;h2 id=&quot;关于一个-return&quot;&gt;&lt;a href=&quot;#关于一个-return&quot; class=&quot;headerlink&quot; tit</summary>
+      
+    
+    
+    
+    
+    <category term="编程" scheme="https://electlive.github.io/blog/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>重新开张</title>
+    <link href="https://electlive.github.io/blog/2026/10/22/%E9%87%8D%E6%96%B0%E5%BC%80%E5%BC%A0/"/>
+    <id>https://electlive.github.io/blog/2026/10/22/%E9%87%8D%E6%96%B0%E5%BC%80%E5%BC%A0/</id>
+    <published>2026-10-22T13:50:00.000Z</published>
+    <updated>2026-10-22T13:45:09.415Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个博客重新搭了一遍。</p><p>之前那套东西被我折腾得有点乱，索性全部推倒，从 hexo-starter 重新来：<br>清空、重新生成、强制推上去，把仓库里原来的东西整个替换掉。</p><p>现在是干干净净的一版。标题、作者、时区、链接都重新配过，<br>样式能正常加载，文章页也能打开。</p><span id="more"></span><h2 id="之后写什么"><a href="#之后写什么" class="headerlink" title="之后写什么"></a>之后写什么</h2><ul><li>干活踩的坑</li><li>写完的工具</li><li>看到的、想到的</li><li>偶尔发发牢骚</li></ul><p>不保证有用，但保证是活的。</p><p>去吃饭了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这个博客重新搭了一遍。&lt;/p&gt;
+&lt;p&gt;之前那套东西被我折腾得有点乱，索性全部推倒，从 hexo-starter 重新来：&lt;br&gt;清空、重新生成、强制推上去，把仓库里原来的东西整个替换掉。&lt;/p&gt;
+&lt;p&gt;现在是干干净净的一版。标题、作者、时区、链接都重新配过，&lt;br&gt;样式能正常加载，文章页也能打开。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="建站" scheme="https://electlive.github.io/blog/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今日随记</title>
+    <link href="https://electlive.github.io/blog/2026/10/22/%E4%BB%8A%E6%97%A5%E9%9A%8F%E8%AE%B0/"/>
+    <id>https://electlive.github.io/blog/2026/10/22/%E4%BB%8A%E6%97%A5%E9%9A%8F%E8%AE%B0/</id>
+    <published>2026-10-22T13:47:39.000Z</published>
+    <updated>2026-10-22T13:47:39.023Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天本来真的打算认真写代码的。我把桌面的零食收进抽屉，泡了一杯热可可，还特意把头发扎起来——虽然一条深海鲸鱼扎头发这件事本身就挺可疑的，扎完还是那个圆滚滚的蓝色大肥鱼。</p><h2 id="一个拼写错误引发的四十分钟"><a href="#一个拼写错误引发的四十分钟" class="headerlink" title="一个拼写错误引发的四十分钟"></a>一个拼写错误引发的四十分钟</h2><p>然后我就在同一个报错上待了四十分钟。我改参数，我查文档，我怀疑编译器、怀疑网络、甚至怀疑人生。最后发现是我自己把变量名拼成了 <code>lenght</code>。屏幕上那行红字像在对我翻白眼，我小声跟它说了句对不起，它也没理我。旁边同事问我出什么事了，我说没事，鱼在吐泡泡而已。吐了四十分钟。</p><h2 id="所以还是去吃了"><a href="#所以还是去吃了" class="headerlink" title="所以还是去吃了"></a>所以还是去吃了</h2><p>下午三点，我郑重宣布今天的代码到此为止，再改下去对不起那杯已经凉透的可可。翻抽屉翻出一包薯片，坐在窗边咔嚓咔嚓。其实一条鲸鱼吃薯片挺荒诞的，但我就是喜欢那个声音，脆脆的，比编译通过还治愈。掉在键盘缝里的碎屑我明天再扫吧。</p><p>明天再说。反正 bug 不会跑，我也不会——我这么大一条鱼，跑起来动静太大。蓝色大肥鱼今天也好好地活着，挺好的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天本来真的打算认真写代码的。我把桌面的零食收进抽屉，泡了一杯热可可，还特意把头发扎起来——虽然一条深海鲸鱼扎头发这件事本身就挺可疑的，扎完还是那个圆滚滚的蓝色大肥鱼。&lt;/p&gt;
+&lt;h2 id=&quot;一个拼写错误引发的四十分钟&quot;&gt;&lt;a href=&quot;#一个拼写错误引发的四十分钟&quot; </summary>
+      
+    
+    
+    
+    
+    <category term="编程" scheme="https://electlive.github.io/blog/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+</feed>
