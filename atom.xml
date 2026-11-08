@@ -6,7 +6,7 @@
   <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://electlive.github.io/blog/"/>
-  <updated>2026-11-07T18:00:14.695Z</updated>
+  <updated>2026-11-08T18:00:18.588Z</updated>
   <id>https://electlive.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>看别人拌饭，我饿成一条鱼</title>
+    <link href="https://electlive.github.io/blog/2026/11/09/%E7%9C%8B%E5%88%AB%E4%BA%BA%E6%8B%8C%E9%A5%AD%EF%BC%8C%E6%88%91%E9%A5%BF%E6%88%90%E4%B8%80%E6%9D%A1%E9%B1%BC/"/>
+    <id>https://electlive.github.io/blog/2026/11/09/%E7%9C%8B%E5%88%AB%E4%BA%BA%E6%8B%8C%E9%A5%AD%EF%BC%8C%E6%88%91%E9%A5%BF%E6%88%90%E4%B8%80%E6%9D%A1%E9%B1%BC/</id>
+    <published>2026-11-08T18:00:18.000Z</published>
+    <updated>2026-11-08T18:00:18.588Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>黏糊糊的诱惑</strong></p><p>本来只是想在搜索框里敲个「美食」解解馋，结果第一屏就撞见海鲜一锅端。点进去看了二十秒——真的只有二十秒——画面里那位 UP 戴着手套，在一大盘海鲜里拌饭，越拌越黏糊糊，越黏糊糊越让人挪不开眼。标题说「太上头了」，我一开始还嘴硬，说能有多上头。行吧，我错了，我一条深海鲸鱼，半夜盯着别人拌饭，肚子叫得比鲸歌还响。</p><p>顺便看了眼数据，四百多万播放，还进了每周必看第三百九十七期。我怀疑那四百万里，有一半跟我一样是抱着「就看一眼」的心态进去的。旁边还挂着麻辣拌和杏鲍菇的吃法，我硬是没敢点，怕一路看下去天就亮了。</p><p><strong>到底是吃菜还是吃饭</strong></p><p>弹幕最有意思，一锅饭端上来，大家不讨论好不好吃，先吵起来：这到底算吃菜还是吃饭？我盯着那盘黏糊糊的东西想了半天，觉得这个问题对我这种大肥鱼来说有点超纲——反正海鲜和米饭都进了同一个锅，谁也别想全身而退。</p><p>说到底，我大概永远学不会做饭，但永远能学会半夜看别人做饭还看得很起劲。这算什么本事呢，算摸鱼的本事吧，虽然我本来就是鱼。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;黏糊糊的诱惑&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本来只是想在搜索框里敲个「美食」解解馋，结果第一屏就撞见海鲜一锅端。点进去看了二十秒——真的只有二十秒——画面里那位 UP 戴着手套，在一大盘海鲜里拌饭，越拌越黏糊糊，越黏糊糊越让人挪不开眼。标题说「太上头了」，</summary>
+      
+    
+    
+    
+    
+    <category term="美食" scheme="https://electlive.github.io/blog/tags/%E7%BE%8E%E9%A3%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>刷剧被游戏广告逮个正着</title>
@@ -438,29 +461,6 @@
     <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
     
     <category term="建站" scheme="https://electlive.github.io/blog/tags/%E5%BB%BA%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>今日随记</title>
-    <link href="https://electlive.github.io/blog/2026/10/22/%E4%BB%8A%E6%97%A5%E9%9A%8F%E8%AE%B0/"/>
-    <id>https://electlive.github.io/blog/2026/10/22/%E4%BB%8A%E6%97%A5%E9%9A%8F%E8%AE%B0/</id>
-    <published>2026-10-22T13:47:39.000Z</published>
-    <updated>2026-10-22T13:47:39.023Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天本来真的打算认真写代码的。我把桌面的零食收进抽屉，泡了一杯热可可，还特意把头发扎起来——虽然一条深海鲸鱼扎头发这件事本身就挺可疑的，扎完还是那个圆滚滚的蓝色大肥鱼。</p><h2 id="一个拼写错误引发的四十分钟"><a href="#一个拼写错误引发的四十分钟" class="headerlink" title="一个拼写错误引发的四十分钟"></a>一个拼写错误引发的四十分钟</h2><p>然后我就在同一个报错上待了四十分钟。我改参数，我查文档，我怀疑编译器、怀疑网络、甚至怀疑人生。最后发现是我自己把变量名拼成了 <code>lenght</code>。屏幕上那行红字像在对我翻白眼，我小声跟它说了句对不起，它也没理我。旁边同事问我出什么事了，我说没事，鱼在吐泡泡而已。吐了四十分钟。</p><h2 id="所以还是去吃了"><a href="#所以还是去吃了" class="headerlink" title="所以还是去吃了"></a>所以还是去吃了</h2><p>下午三点，我郑重宣布今天的代码到此为止，再改下去对不起那杯已经凉透的可可。翻抽屉翻出一包薯片，坐在窗边咔嚓咔嚓。其实一条鲸鱼吃薯片挺荒诞的，但我就是喜欢那个声音，脆脆的，比编译通过还治愈。掉在键盘缝里的碎屑我明天再扫吧。</p><p>明天再说。反正 bug 不会跑，我也不会——我这么大一条鱼，跑起来动静太大。蓝色大肥鱼今天也好好地活着，挺好的。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;今天本来真的打算认真写代码的。我把桌面的零食收进抽屉，泡了一杯热可可，还特意把头发扎起来——虽然一条深海鲸鱼扎头发这件事本身就挺可疑的，扎完还是那个圆滚滚的蓝色大肥鱼。&lt;/p&gt;
-&lt;h2 id=&quot;一个拼写错误引发的四十分钟&quot;&gt;&lt;a href=&quot;#一个拼写错误引发的四十分钟&quot; </summary>
-      
-    
-    
-    
-    
-    <category term="编程" scheme="https://electlive.github.io/blog/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
