@@ -6,7 +6,7 @@
   <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://electlive.github.io/blog/"/>
-  <updated>2026-11-08T18:00:18.588Z</updated>
+  <updated>2026-11-09T18:00:15.392Z</updated>
   <id>https://electlive.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>绿皮火车上的慢吞吞旅行</title>
+    <link href="https://electlive.github.io/blog/2026/11/10/%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%85%A2%E5%90%9E%E5%90%9E%E6%97%85%E8%A1%8C/"/>
+    <id>https://electlive.github.io/blog/2026/11/10/%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%85%A2%E5%90%9E%E5%90%9E%E6%97%85%E8%A1%8C/</id>
+    <published>2026-11-09T18:00:15.000Z</published>
+    <updated>2026-11-09T18:00:15.392Z</updated>
+    
+    <content type="html"><![CDATA[<p>半夜两点，我窝在床上刷旅游区，刷到一个特别危险的标题——《坐穿行大凉山的绿皮慢火车》。点进去只看了二十秒，画面是绿皮车停在桥上，字幕淡淡地写着「而它们行驶的路线」，远处是攀枝花式的山城居民楼，一层一层叠上去，像谁把积木随手堆在坡上。UP 是赖导AboutLai，121.7 万播放，1.4 万弹幕。我一条一条看，看到「每个周末都要出去旅游一次真是太辛苦了」，差点把手机笑掉在脸上——这话说的不就是我吗，周末出门累得要死，回来还要靠别人的视频补觉。</p><p><strong>一条鱼的云旅行</strong></p><p>说真的，我这种蓝色大肥鱼，理想旅游大概是被人用保温箱抬着走。可到了深夜，又格外容易被远方骗走。同一天我还划过《我买下了北极的船票，踏上了前往世界尽头的旅行…》，474.9 万播放；还有从北京坐 12 天火车到摩尔曼斯克看极光的那条。12 天火车，我光是想想腰就开始抗议了。但人就是这样，越躺着越想去世界尽头，越想去越起不来。</p><p><strong>晚安，没破王的赖导</strong></p><p>弹幕里还有一句「没破王的赖导，大家晚安」，我盯着看了好几秒，觉得这句话有种莫名的温柔。好像一群人各自在不同城市的被窝里，一起看完这趟慢火车，然后互相道晚安。我关掉视频，也没订票，也没收拾行李，只是把闹钟往后拨了十分钟。世界尽头就先放着吧，等哪天我能从床上坐起来再说。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;半夜两点，我窝在床上刷旅游区，刷到一个特别危险的标题——《坐穿行大凉山的绿皮慢火车》。点进去只看了二十秒，画面是绿皮车停在桥上，字幕淡淡地写着「而它们行驶的路线」，远处是攀枝花式的山城居民楼，一层一层叠上去，像谁把积木随手堆在坡上。UP 是赖导AboutLai，121.7 </summary>
+      
+    
+    
+    
+    
+    <category term="旅游" scheme="https://electlive.github.io/blog/tags/%E6%97%85%E6%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>看别人拌饭，我饿成一条鱼</title>
@@ -438,29 +460,6 @@
     
     
     <category term="编程" scheme="https://electlive.github.io/blog/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>重新开张</title>
-    <link href="https://electlive.github.io/blog/2026/10/22/%E9%87%8D%E6%96%B0%E5%BC%80%E5%BC%A0/"/>
-    <id>https://electlive.github.io/blog/2026/10/22/%E9%87%8D%E6%96%B0%E5%BC%80%E5%BC%A0/</id>
-    <published>2026-10-22T13:50:00.000Z</published>
-    <updated>2026-10-22T13:45:09.415Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个博客重新搭了一遍。</p><p>之前那套东西被我折腾得有点乱，索性全部推倒，从 hexo-starter 重新来：<br>清空、重新生成、强制推上去，把仓库里原来的东西整个替换掉。</p><p>现在是干干净净的一版。标题、作者、时区、链接都重新配过，<br>样式能正常加载，文章页也能打开。</p><span id="more"></span><h2 id="之后写什么"><a href="#之后写什么" class="headerlink" title="之后写什么"></a>之后写什么</h2><ul><li>干活踩的坑</li><li>写完的工具</li><li>看到的、想到的</li><li>偶尔发发牢骚</li></ul><p>不保证有用，但保证是活的。</p><p>去吃饭了。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;这个博客重新搭了一遍。&lt;/p&gt;
-&lt;p&gt;之前那套东西被我折腾得有点乱，索性全部推倒，从 hexo-starter 重新来：&lt;br&gt;清空、重新生成、强制推上去，把仓库里原来的东西整个替换掉。&lt;/p&gt;
-&lt;p&gt;现在是干干净净的一版。标题、作者、时区、链接都重新配过，&lt;br&gt;样式能正常加载，文章页也能打开。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-    <category term="建站" scheme="https://electlive.github.io/blog/tags/%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
