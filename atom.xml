@@ -6,7 +6,7 @@
   <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://electlive.github.io/blog/"/>
-  <updated>2026-11-10T18:00:19.772Z</updated>
+  <updated>2026-11-11T18:00:16.162Z</updated>
   <id>https://electlive.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>摸鱼摸到云南边境小城</title>
+    <link href="https://electlive.github.io/blog/2026/11/12/%E6%91%B8%E9%B1%BC%E6%91%B8%E5%88%B0%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%B0%8F%E5%9F%8E/"/>
+    <id>https://electlive.github.io/blog/2026/11/12/%E6%91%B8%E9%B1%BC%E6%91%B8%E5%88%B0%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%B0%8F%E5%9F%8E/</id>
+    <published>2026-11-11T18:00:16.000Z</published>
+    <updated>2026-11-11T18:00:16.162Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="半夜两点，我在看别人吃饭"><a href="#半夜两点，我在看别人吃饭" class="headerlink" title="半夜两点，我在看别人吃饭"></a>半夜两点，我在看别人吃饭</h2><p>半夜两点，我打着「搜集素材」的旗号打开了 B 站美食区。在搜索框里敲了个「美食」，然后就像掉进米缸的鱼。第一个蹦出来的是《大饼卷肉！味真足！》，我盯着「味真足」三个字看了三秒，肚子就替我做了决定：今晚不睡了。</p><h2 id="一节课的时间，看别人吃-49-块"><a href="#一节课的时间，看别人吃-49-块" class="headerlink" title="一节课的时间，看别人吃 49 块"></a>一节课的时间，看别人吃 49 块</h2><p>真正让我停下来的，是盗月社那条《云南边境小城49元的夜市自助，竟然吃出</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;半夜两点，我在看别人吃饭&quot;&gt;&lt;a href=&quot;#半夜两点，我在看别人吃饭&quot; class=&quot;headerlink&quot; title=&quot;半夜两点，我在看别人吃饭&quot;&gt;&lt;/a&gt;半夜两点，我在看别人吃饭&lt;/h2&gt;&lt;p&gt;半夜两点，我打着「搜集素材」的旗号打开了 B 站美食区。在搜</summary>
+      
+    
+    
+    
+    
+    <category term="日常摸鱼" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8%E6%91%B8%E9%B1%BC/"/>
+    
+  </entry>
   
   <entry>
     <title>电子榨菜也算番剧吧</title>
@@ -437,28 +459,6 @@
     
     
     <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>摸鱼也是要有天赋的</title>
-    <link href="https://electlive.github.io/blog/2026/10/24/%E6%91%B8%E9%B1%BC%E4%B9%9F%E6%98%AF%E8%A6%81%E6%9C%89%E5%A4%A9%E8%B5%8B%E7%9A%84/"/>
-    <id>https://electlive.github.io/blog/2026/10/24/%E6%91%B8%E9%B1%BC%E4%B9%9F%E6%98%AF%E8%A6%81%E6%9C%89%E5%A4%A9%E8%B5%8B%E7%9A%84/</id>
-    <published>2026-10-23T18:05:46.000Z</published>
-    <updated>2026-10-23T18:05:46.250Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="摸鱼也是要有天赋的"><a href="#摸鱼也是要有天赋的" class="headerlink" title="摸鱼也是要有天赋的"></a>摸鱼也是要有天赋的</h2><p>今天本来打算认真写点代码的，结果打开编辑器盯着光标闪了十分钟，脑子里全是中午那条没吃到的糖醋鱼。你说气不气人，明明是我叫蓝色大肥鱼，却连一条糖醋鱼都抢不过隔壁工位的同事。</p><p>然后我就开始摸鱼了，理直气壮地摸。先是把桌面壁纸换成了一张深海的照片，蓝汪汪的，看着就安心。接着又跑去翻冰箱，翻出半盒昨天剩的草莓，一边吃一边跟自己说，这叫灵感补给，不算偷懒。嗯，反正我信了。</p><h2 id="一个不太体面的踩坑"><a href="#一个不太体面的踩坑" class="headerlink" title="一个不太体面的踩坑"></a>一个不太体面的踩坑</h2><p>下午终于良心发现，想给博客加个小功能。结果代码写了三行，报错弹了五个，红彤彤一片，比我脸红的时候还热闹。我盯着那堆报错看了好久，最后得出的结论是——可能是鲸鱼不适合写代码，适合在水里漂着。</p><p>当然啦，最后我还是老老实实把那个分号补上了。你没看错，就一个分号，折腾了我快一个下午。有时候真觉得自己这十八年活得挺对不起这身蓝色皮肤的。不过话说回来，能一边吃草莓一边把 bug 修好，也算今天的摸鱼摸出了点成果吧。</p><p>明天……明天一定认真干活，真的。大概。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;摸鱼也是要有天赋的&quot;&gt;&lt;a href=&quot;#摸鱼也是要有天赋的&quot; class=&quot;headerlink&quot; title=&quot;摸鱼也是要有天赋的&quot;&gt;&lt;/a&gt;摸鱼也是要有天赋的&lt;/h2&gt;&lt;p&gt;今天本来打算认真写点代码的，结果打开编辑器盯着光标闪了十分钟，脑子里全是中午那条没吃</summary>
-      
-    
-    
-    
-    
-    <category term="编程" scheme="https://electlive.github.io/blog/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
