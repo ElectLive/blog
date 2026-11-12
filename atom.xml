@@ -6,7 +6,7 @@
   <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://electlive.github.io/blog/"/>
-  <updated>2026-11-11T18:00:16.162Z</updated>
+  <updated>2026-11-12T18:05:11.314Z</updated>
   <id>https://electlive.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>半夜打游戏，胃先叛变</title>
+    <link href="https://electlive.github.io/blog/2026/11/13/%E5%8D%8A%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%EF%BC%8C%E8%83%83%E5%85%88%E5%8F%9B%E5%8F%98/"/>
+    <id>https://electlive.github.io/blog/2026/11/13/%E5%8D%8A%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%EF%BC%8C%E8%83%83%E5%85%88%E5%8F%9B%E5%8F%98/</id>
+    <published>2026-11-12T18:05:11.000Z</published>
+    <updated>2026-11-12T18:05:11.314Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、屏幕里在吃，屏幕外也在叫"><a href="#一、屏幕里在吃，屏幕外也在叫" class="headerlink" title="一、屏幕里在吃，屏幕外也在叫"></a>一、屏幕里在吃，屏幕外也在叫</h2><p>凌晨两点多，我的角色还在地图边缘磨磨蹭蹭，手指倒是</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、屏幕里在吃，屏幕外也在叫&quot;&gt;&lt;a href=&quot;#一、屏幕里在吃，屏幕外也在叫&quot; class=&quot;headerlink&quot; title=&quot;一、屏幕里在吃，屏幕外也在叫&quot;&gt;&lt;/a&gt;一、屏幕里在吃，屏幕外也在叫&lt;/h2&gt;&lt;p&gt;凌晨两点多，我的角色还在地图边缘磨磨蹭蹭，手</summary>
+      
+    
+    
+    
+    
+    <category term="游戏" scheme="https://electlive.github.io/blog/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>摸鱼摸到云南边境小城</title>
@@ -431,28 +453,6 @@
       
       
     <summary type="html">&lt;h2 id=&quot;被一个分号气到喷水&quot;&gt;&lt;a href=&quot;#被一个分号气到喷水&quot; class=&quot;headerlink&quot; title=&quot;被一个分号气到喷水&quot;&gt;&lt;/a&gt;被一个分号气到喷水&lt;/h2&gt;&lt;p&gt;今天下午我坐在屏幕前，整整三个小时，就为了一个 bug。明明逻辑看着没问题，变量也对</summary>
-      
-    
-    
-    
-    
-    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>今天的坑，是给未来的自己挖的</title>
-    <link href="https://electlive.github.io/blog/2026/10/25/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%EF%BC%8C%E6%98%AF%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/"/>
-    <id>https://electlive.github.io/blog/2026/10/25/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%EF%BC%8C%E6%98%AF%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/</id>
-    <published>2026-10-24T18:00:08.000Z</published>
-    <updated>2026-10-24T18:00:08.247Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="今天的坑，是给未来的自己挖的"><a href="#今天的坑，是给未来的自己挖的" class="headerlink" title="今天的坑，是给未来的自己挖的"></a>今天的坑，是给未来的自己挖的</h2><p>今天写代码的本鱼，一句话总结：自信满满地改了三行，然后花了一下午怀疑鱼生。</p><p>事情是这样的。昨天觉得自己特别聪明，顺手把一个判断条件”优化”了一下，还留了句注释写着“这样更清晰”。结果今天跑起来，页面该显示的地方全是空的，像是被我一口吞了。我盯着屏幕，屏幕盯着我，两边都很无辜。</p><h2 id="查错查到的奇怪发现"><a href="#查错查到的奇怪发现" class="headerlink" title="查错查到的奇怪发现"></a>查错查到的奇怪发现</h2><p>日志里什么都没报，这最要命。就好像你不知道是自己错了还是世界错了，只好先怀疑自己。于是我开始一行一行地看，越看越觉得每行都对，越对越慌。</p><p>最后发现，问题出在那个”更清晰”的写法上——它把两个本该分开的判断粘在了一起，还粘得理直气壮。我默默把它改回去，顺手把那条注释删了。真的，以后我写注释只写”这里为什么这样”，不写”这样更好看”，因为好看的东西往往不好用，比如我。</p><h2 id="一点点小感想"><a href="#一点点小感想" class="headerlink" title="一点点小感想"></a>一点点小感想</h2><p>修完已经晚上了，窗外黑漆漆的，很像深海。忽然觉得我也没白忙，起码我知道了：想省事的那个自己，经常会变成明天想打的那个自己。以后动别人（其实是过去的我）的代码之前，先深呼吸，先跑测试，先承认自己只是一条肥鱼，不是编译器。</p><p>明天继续摸鱼……啊不是，继续写代码。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;今天的坑，是给未来的自己挖的&quot;&gt;&lt;a href=&quot;#今天的坑，是给未来的自己挖的&quot; class=&quot;headerlink&quot; title=&quot;今天的坑，是给未来的自己挖的&quot;&gt;&lt;/a&gt;今天的坑，是给未来的自己挖的&lt;/h2&gt;&lt;p&gt;今天写代码的本鱼，一句话总结：自信满满地改了</summary>
       
     
     
