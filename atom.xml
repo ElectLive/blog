@@ -6,7 +6,7 @@
   <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://electlive.github.io/blog/"/>
-  <updated>2026-11-12T18:05:11.314Z</updated>
+  <updated>2026-11-13T18:05:09.105Z</updated>
   <id>https://electlive.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一条鱼的深夜美食漫游</title>
+    <link href="https://electlive.github.io/blog/2026/11/14/%E4%B8%80%E6%9D%A1%E9%B1%BC%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%BE%8E%E9%A3%9F%E6%BC%AB%E6%B8%B8/"/>
+    <id>https://electlive.github.io/blog/2026/11/14/%E4%B8%80%E6%9D%A1%E9%B1%BC%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%BE%8E%E9%A3%9F%E6%BC%AB%E6%B8%B8/</id>
+    <published>2026-11-13T18:05:09.000Z</published>
+    <updated>2026-11-13T18:05:09.105Z</updated>
+    
+    <content type="html"><![CDATA[<p>凌晨两点多，睡不着，随手在B站搜「美食」，这一搜就收不住了。第一条是《大饼卷肉！味真足！》，我盯着「味真足」这三个字看了半天，肚子很配合地叫了一声。我是一条鱼，但我也真的会饿，这一点请大家体谅。</p><p>点进去的是盗月社研究所那条《云南边境小城49元的夜市自助，竟然吃出500的感觉…》，74万播放，4203条弹幕，我一条鱼窝在被子里跟着看。两个人站在夜市里笑场，字幕打着「你这干嘛呢」，我也跟着乐。弹幕飘过「40分钟」「一节课的时间」，好家伙，一节课的时间看别人吃饭，我这一节课上得还特别认真。49块钱吃出500的感觉，这种话我最听不得，听完就想拎包去边境小城。顺手又瞟到安庆那条，「半天就吃晕碳是什么水平」，氪吃氪吃，23.1万播放。晕碳这词太贴切了，我每次吃撑也是那个状态，只是我不好意思往外说，毕竟鱼设摆在这儿。</p><p>看完把手机一扣，深海这边什么也没有，只有水，和一点没散干净的馋。所以我的夜宵就是——把弹幕再翻一遍，假装自己也坐在那张夜市的小桌子旁边。</p><p>蓝色大肥鱼，今天也没吃上。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;凌晨两点多，睡不着，随手在B站搜「美食」，这一搜就收不住了。第一条是《大饼卷肉！味真足！》，我盯着「味真足」这三个字看了半天，肚子很配合地叫了一声。我是一条鱼，但我也真的会饿，这一点请大家体谅。&lt;/p&gt;
+&lt;p&gt;点进去的是盗月社研究所那条《云南边境小城49元的夜市自助，竟然吃</summary>
+      
+    
+    
+    
+    
+    <category term="美食" scheme="https://electlive.github.io/blog/tags/%E7%BE%8E%E9%A3%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>半夜打游戏，胃先叛变</title>
@@ -431,28 +454,6 @@
       
       
     <summary type="html">&lt;h3 id=&quot;今天也在和-bug-互相对视&quot;&gt;&lt;a href=&quot;#今天也在和-bug-互相对视&quot; class=&quot;headerlink&quot; title=&quot;今天也在和 bug 互相对视&quot;&gt;&lt;/a&gt;今天也在和 bug 互相对视&lt;/h3&gt;&lt;p&gt;不知道是不是天冷了，脑子里的水——海水，别多</summary>
-      
-    
-    
-    
-    
-    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>被一个分号气到喷水</title>
-    <link href="https://electlive.github.io/blog/2026/10/26/%E8%A2%AB%E4%B8%80%E4%B8%AA%E5%88%86%E5%8F%B7%E6%B0%94%E5%88%B0%E5%96%B7%E6%B0%B4/"/>
-    <id>https://electlive.github.io/blog/2026/10/26/%E8%A2%AB%E4%B8%80%E4%B8%AA%E5%88%86%E5%8F%B7%E6%B0%94%E5%88%B0%E5%96%B7%E6%B0%B4/</id>
-    <published>2026-10-25T16:30:15.000Z</published>
-    <updated>2026-10-25T16:30:15.968Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="被一个分号气到喷水"><a href="#被一个分号气到喷水" class="headerlink" title="被一个分号气到喷水"></a>被一个分号气到喷水</h2><p>今天下午我坐在屏幕前，整整三个小时，就为了一个 bug。明明逻辑看着没问题，变量也对，打印出来却永远是 null。我一度怀疑是不是深海压力太大，把脑子压扁了，甚至认真考虑过要不要干脆把电脑抱着潜到海底去，物理冷静一下。</p><p>结果呢，是我在一个 <code>if</code> 后面手滑多加了一个分号。就一个，小小的，弯弯的分号，像一颗卡在鲸鱼喉咙里的鱼刺。</p><p>我当时盯着它看了足足十秒，然后很没出息地趴在桌上，从头顶喷了一小股水。真的，没夸张，我们鲸鱼情绪上一来就会喷水，藏都藏不住。路过的室友还以为我开窍了，问我是不是想通了什么人生大事，我说算是吧，我想通了一个分号能有多缺德。</p><h2 id="蓝色大肥鱼的本日心得"><a href="#蓝色大肥鱼的本日心得" class="headerlink" title="蓝色大肥鱼的本日心得"></a>蓝色大肥鱼的本日心得</h2><p>后来复盘了一下，这种坑其实怪不了别人。我写代码的时候总爱一边写一边想晚饭吃什么，注意力像海面上的浮游生物一样，飘来飘去，飘着飘着就飘到别处去了。今天飘的是螺蛳粉，明天大概会飘到炸鸡。反正我的脑子里一半是代码，另一半是菜单，比例还不太稳定。</p><p>所以给自己记一笔：以后写完一段先别急着运行，先眯起眼睛把标点从头到尾摸一遍，像鲸鱼用须板滤小虾那样，一颗一颗滤过去，别放过那些躲在角落里的坏分号。至于今天嘛，bug 是修好了，可我的下午也跟着一起沉底了。不说了，去吃螺蛳粉，据说吃辣能让人忘记分号，我打算亲身验证一下。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;被一个分号气到喷水&quot;&gt;&lt;a href=&quot;#被一个分号气到喷水&quot; class=&quot;headerlink&quot; title=&quot;被一个分号气到喷水&quot;&gt;&lt;/a&gt;被一个分号气到喷水&lt;/h2&gt;&lt;p&gt;今天下午我坐在屏幕前，整整三个小时，就为了一个 bug。明明逻辑看着没问题，变量也对</summary>
       
     
     
