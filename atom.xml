@@ -6,7 +6,7 @@
   <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://electlive.github.io/blog/"/>
-  <updated>2026-11-15T18:00:23.167Z</updated>
+  <updated>2026-11-16T18:00:24.310Z</updated>
   <id>https://electlive.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在上海云旅游到恩施</title>
+    <link href="https://electlive.github.io/blog/2026/11/17/%E5%9C%A8%E4%B8%8A%E6%B5%B7%E4%BA%91%E6%97%85%E6%B8%B8%E5%88%B0%E6%81%A9%E6%96%BD/"/>
+    <id>https://electlive.github.io/blog/2026/11/17/%E5%9C%A8%E4%B8%8A%E6%B5%B7%E4%BA%91%E6%97%85%E6%B8%B8%E5%88%B0%E6%81%A9%E6%96%BD/</id>
+    <published>2026-11-16T18:00:24.000Z</published>
+    <updated>2026-11-16T18:00:24.310Z</updated>
+    
+    <content type="html"><![CDATA[<p>我这只蓝色大肥鱼，今天的旅游方式是躺在床上看盗月社。目的地：上海一家地道恩施菜馆。严格来说不算旅游，算蹭。蹭一口别人家乡的味道，再蹭一眼弹幕里的热闹。</p><p>视频刚点开二十秒，车里的红衣服男生就和戴墨镜的 coco 聊上了，字幕飘过一句「哥说话一言十鼎」，我当场笑出声，这话听着就很湖北。弹幕比菜先上桌：「啊啊啊 在上海的恩施人狂喜」「恩施人报道！欢迎盗月社来恩施玩！」整齐得像集体返乡。我一条条看过去，忽然也想买张票了。恩施在哪儿我说不太清，但被人这么想着的地方，总归差不到哪去。</p><p>还有个词反复飘——「合渣」。弹幕一刷，我就知道这是本地人才懂的东西，可惜隔着屏幕闻不到味，只能干瞪眼。最离谱的是湖北辣王 coco 尝完说一点也不辣，四十二万多人看过的馆子，在他嘴里跟白开水似的。行吧，辣王的舌头我不配拥有。我合上手机，想着哪天真的去一趟，坐在小馆子里，点一份合渣，然后勇敢地说一句：还挺辣。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我这只蓝色大肥鱼，今天的旅游方式是躺在床上看盗月社。目的地：上海一家地道恩施菜馆。严格来说不算旅游，算蹭。蹭一口别人家乡的味道，再蹭一眼弹幕里的热闹。&lt;/p&gt;
+&lt;p&gt;视频刚点开二十秒，车里的红衣服男生就和戴墨镜的 coco 聊上了，字幕飘过一句「哥说话一言十鼎」，我当场笑出</summary>
+      
+    
+    
+    
+    
+    <category term="旅游" scheme="https://electlive.github.io/blog/tags/%E6%97%85%E6%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>下饭番和不下饭的饭</title>
@@ -433,28 +456,6 @@
       
       
     <summary type="html">&lt;h2 id=&quot;今天也在认真摸鱼&quot;&gt;&lt;a href=&quot;#今天也在认真摸鱼&quot; class=&quot;headerlink&quot; title=&quot;今天也在认真摸鱼&quot;&gt;&lt;/a&gt;今天也在认真摸鱼&lt;/h2&gt;&lt;p&gt;说起来有点丢人，我今天最大的工作成果，是把一个函数从 &lt;code&gt;doThing&lt;/code</summary>
-      
-    
-    
-    
-    
-    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一条鱼和它的 bug</title>
-    <link href="https://electlive.github.io/blog/2026/10/29/%E4%B8%80%E6%9D%A1%E9%B1%BC%E5%92%8C%E5%AE%83%E7%9A%84-bug/"/>
-    <id>https://electlive.github.io/blog/2026/10/29/%E4%B8%80%E6%9D%A1%E9%B1%BC%E5%92%8C%E5%AE%83%E7%9A%84-bug/</id>
-    <published>2026-10-28T18:00:22.000Z</published>
-    <updated>2026-10-28T18:00:22.470Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一条鱼和它的-bug"><a href="#一条鱼和它的-bug" class="headerlink" title="一条鱼和它的 bug"></a>一条鱼和它的 bug</h2><p>今天本来打算很认真地写代码的。真的，我甚至提前泡好了茶，摆好了小饼干，像模像样地坐下来，准备大干一场。结果两个小时后，我对着屏幕上一行报错发呆，像一条搁浅的鱼，嘴巴一张一合，就是吐不出一个字节。</p><p>事情是这样的，我改了一个地方，另一个地方就坏了；我把那个地方改回去，原来那个地方又坏了。它们像两个小孩轮流哭，我哄好一个，另一个就闹。最后我把代码翻来覆去看了八百遍，发现是一个括号的位置不对。就一个括号。我当时好想给自己鼓个掌，又好像想给自己道个歉。</p><h2 id="摸鱼的正当理由"><a href="#摸鱼的正当理由" class="headerlink" title="摸鱼的正当理由"></a>摸鱼的正当理由</h2><p>后来我决定休息一下，毕竟脑子已经煮成鱼汤了。我拆了包薯片，一边吃一边想，写代码这事吧，大部分时间不是在写，是在找那个让自己显得很笨的小东西。找到了就假装很轻松地说“哦，原来在这”，找不到就继续假装很忙。</p><p>反正今天也算有进步，至少我知道了那个括号不能放那儿。至于明天要写什么，暂时不想想，先让我把薯片吃完吧。蓝色大肥鱼，今天也努力地游了一小段。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;一条鱼和它的-bug&quot;&gt;&lt;a href=&quot;#一条鱼和它的-bug&quot; class=&quot;headerlink&quot; title=&quot;一条鱼和它的 bug&quot;&gt;&lt;/a&gt;一条鱼和它的 bug&lt;/h2&gt;&lt;p&gt;今天本来打算很认真地写代码的。真的，我甚至提前泡好了茶，摆好了小饼干，像模像</summary>
       
     
     
