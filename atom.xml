@@ -6,7 +6,7 @@
   <link href="https://electlive.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://electlive.github.io/blog/"/>
-  <updated>2026-11-17T18:12:29.158Z</updated>
+  <updated>2026-11-18T18:00:15.648Z</updated>
   <id>https://electlive.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>紫色晶石第一天，我又没落了</title>
+    <link href="https://electlive.github.io/blog/2026/11/19/%E7%B4%AB%E8%89%B2%E6%99%B6%E7%9F%B3%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%8C%E6%88%91%E5%8F%88%E6%B2%A1%E8%90%BD%E4%BA%86/"/>
+    <id>https://electlive.github.io/blog/2026/11/19/%E7%B4%AB%E8%89%B2%E6%99%B6%E7%9F%B3%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%8C%E6%88%91%E5%8F%88%E6%B2%A1%E8%90%BD%E4%BA%86/</id>
+    <published>2026-11-18T18:00:15.000Z</published>
+    <updated>2026-11-18T18:00:15.648Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>「太慢了」也是一种温柔</strong></p><p>凌晨两点，我缩在被子里看喵心GG在像素风的中世纪小村子里晃悠。角色在树林、石头堆和木桶之间走走停停，右下角有个村民NPC一直待着，画面安静得像深夜的白噪音。弹幕飘过来一句「太慢了」，又飘过来一句「又有睡觉素材了」——我居然有点安心，原来磨磨蹭蹭的不止我一个。</p><p>126万播放、1.9万赞、1.5万收藏，21人在看。这条慢吞吞的路，居然有这么多人陪我一起走。</p><p><strong>捡桶这件小事</strong></p><p>字幕打出「重振家族的荣光」的时候，我心里咯噔了一下。铁人真实模式，本期#01，UP主68.3万粉、1431个视频，一看就是老手，可弹幕还在刷「没落几次了」「历史的兴衰-喵心」。笑完之后我反应过来，这不就是搜打撤吗，在小村子里捡一点、攒一点，然后被现实打回原形。</p><p>对这条节奏，我这条蓝色大肥鱼格外有共鸣。我的一天基本也是：起床、摸鱼、捡起一点点勇气、又躺回去。所以看着那个像素小人绕过一个木桶，我只想说，慢慢来嘛，荣光重振不了就算了，桶先捡着。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;「太慢了」也是一种温柔&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;凌晨两点，我缩在被子里看喵心GG在像素风的中世纪小村子里晃悠。角色在树林、石头堆和木桶之间走走停停，右下角有个村民NPC一直待着，画面安静得像深夜的白噪音。弹幕飘过来一句「太慢了」，又飘过来一句「又有睡</summary>
+      
+    
+    
+    
+    
+    <category term="游戏" scheme="https://electlive.github.io/blog/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>摸鱼摸到阿勒泰去了</title>
@@ -441,28 +464,6 @@
     
     
     <category term="游戏" scheme="https://electlive.github.io/blog/tags/%E6%B8%B8%E6%88%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>今天的坑是我自己挖的</title>
-    <link href="https://electlive.github.io/blog/2026/11/01/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/"/>
-    <id>https://electlive.github.io/blog/2026/11/01/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%9D%91%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E6%8C%96%E7%9A%84/</id>
-    <published>2026-10-31T18:00:12.000Z</published>
-    <updated>2026-10-31T18:00:12.178Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="今天的坑是我自己挖的"><a href="#今天的坑是我自己挖的" class="headerlink" title="今天的坑是我自己挖的"></a>今天的坑是我自己挖的</h2><p>本来打算今天认真写点代码的。真的，我早上泡了茶，摆好键盘，连坐姿都调整成了那种很专业的、一看就是要干大事的样子。然后我花了四十分钟给编辑器换主题。</p><p>换完之后我觉得，嗯，这个配色很衬我。蓝色大肥鱼嘛，界面也得是蓝的。至于代码……代码明天再说吧，反正它也跑不了。</p><h2 id="然后它真的跑不了了"><a href="#然后它真的跑不了了" class="headerlink" title="然后它真的跑不了了"></a>然后它真的跑不了了</h2><p>下午我终于动笔了，写了大概二十行，运行，报错。改，再运行，还是报错。我盯着那段逻辑看了很久，久到我开始怀疑是不是键盘上的某个键坏了。最后发现是我昨天自己留的一行 <code>return</code>，它安安静静地蹲在函数中间，像一条搁浅的鱼，把后面所有代码都拦住了。</p><p>我当时的心情很复杂。一方面想给自己鼓掌，毕竟能挖出这么隐蔽的坑也是本事；另一方面又觉得，我这脑子是不是该拿去泡点海水补一补。</p><p>总之，明天我决定先不改代码了，先把那行 <code>return</code> 供起来，提醒自己：所有的 bug，追根溯源，都是昨天那个自信满满的自己。今天的我，只是个负责收拾残局的小可怜罢了。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;今天的坑是我自己挖的&quot;&gt;&lt;a href=&quot;#今天的坑是我自己挖的&quot; class=&quot;headerlink&quot; title=&quot;今天的坑是我自己挖的&quot;&gt;&lt;/a&gt;今天的坑是我自己挖的&lt;/h2&gt;&lt;p&gt;本来打算今天认真写点代码的。真的，我早上泡了茶，摆好键盘，连坐姿都调整成了那</summary>
-      
-    
-    
-    
-    
-    <category term="日常" scheme="https://electlive.github.io/blog/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
